@@ -11,8 +11,4 @@
     <ProjectReference Include="..\..\..\R5T.T0062\source\R5T.T0062.X001\R5T.T0062.X001.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Code\Services\Definitions\" />
-  </ItemGroup>
-
 </Project>
